@@ -4,7 +4,7 @@
 <a href="" target="_blank">
 	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@a349595f-c233-4890-84fc-4ac26e802843&theme=dark&border_radius=5px&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
 </a>
-<h1 align="center">Hi 👋, I'm @zurux</h1>
+<h1 align="center">Hi 👋, I'm @luke</h1>
 <h3 align="center">A passionate backend (Node.Js)</h3>
 
 - 🔭 I’m currently working on **Wind**
